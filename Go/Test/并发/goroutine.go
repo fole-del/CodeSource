@@ -20,7 +20,7 @@ func main() {
 	for _, w := range works {
 		work := w
 		wg.Add(1)
-		go func() {
+		go func() { // 以协程的方式运行
 			defer wg.Done()
 			limit <- 1
 			work()
