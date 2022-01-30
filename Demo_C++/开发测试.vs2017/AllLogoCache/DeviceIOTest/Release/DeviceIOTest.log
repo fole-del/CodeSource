@@ -1,9 +1,0 @@
-﻿  DeviceIOTest.cpp
-g:\vs2017\alllogocache\deviceiotest\deviceiotest.cpp(37): warning C4838: 从“int”转换到“DWORD”需要收缩转换
-g:\vs2017\alllogocache\deviceiotest\deviceiotest.cpp(264): warning C4477: “printf”: 格式字符串“%.*S”需要类型“wchar_t *”的参数，但可变参数 2 拥有了类型“PWCH *”
-  g:\vs2017\alllogocache\deviceiotest\deviceiotest.cpp(264): note: 此参数由转换说明符使用
-  正在生成代码
-g:\vs2017\alllogocache\deviceiotest\deviceiotest.cpp(70): warning C4715: “EnumUsnRecord”: 不是所有的控件路径都返回值
-  All 267 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  已完成代码的生成
-  DeviceIOTest.vcxproj -> G:\VS2017\AllLogoCache\Release\DeviceIOTest.exe

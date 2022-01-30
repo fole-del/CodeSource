@@ -72,64 +72,28 @@ Thumbs.db
 # 用户文件
 #
 *.pro.user
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 *.VC.db
-=======
->>>>>>> 6b95518 (:fire:(vs2017):工程文件)
-=======
->>>>>>> 714d37b (:see_no_evil:(ignoreDoc):update)
-=======
 *.VC.db
->>>>>>> b9a9f53 (:fire:(工程):工程提交)
 *.VC.opendb
 *.VC.db-shm
 *.VC.db-wal
 */*/x64/*
-<<<<<<< HEAD
 */*/.vs
 *.VC.db
-<<<<<<< HEAD
->>>>>>> 6b95518 (:fire:(vs2017):工程文件)
-=======
->>>>>>> 714d37b (:see_no_evil:(ignoreDoc):update)
-=======
 */*/.vs
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> b9a9f53 (:fire:(工程):工程提交)
-=======
-=======
 *.log
 *.tlog
->>>>>>> 22122ac (:tada:(ALL): 重新部署)
 
 # vs工程文件
 Demo_C++/开发测试.vs2017/Debug/*.*
 Demo_C++/开发测试.vs2017/Debug/*
 Demo_C++/开发测试.vs2017/x64/*
 Demo_C++/开发测试.vs2017/x64/*.*
-<<<<<<< HEAD
-
 Demo_C++/开发测试.vs2017/*/x64
->>>>>>> ccbb730 (:see_no_evil:(ignoreDoc):完善Vs工程生成文档配置)
-=======
 Demo_C++/开发测试.vs2017/Release/*.*
 Demo_C++/开发测试.vs2017/Release/*
 Demo_C++/开发测试.vs2017/*/x64
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 8bd3aaf (:fire:feat(Relsease):删除生成文件)
-=======
 Demo_C++/开发测试.vs2017/*/Release
->>>>>>> 8e7051f (:see_no_evil:(vs build):vs2017工程中间文件)
-=======
 Demo_C++/开发测试.vs2017/**/Release/*.*
 Demo_C++/开发测试.vs2017/**/Release/*.*
->>>>>>> 22122ac (:tada:(ALL): 重新部署)
 /Demo_C++/开发测试.vs2017/BuildProject/x64
-Release
-build
-/Demo_Python/网络编程/*.spec
-dist

@@ -1,5 +1,0 @@
-﻿  CallBackFunc.cpp
-  正在生成代码
-g:\code_source\demo_c++\开发测试.vs2017\callbackfunc\callbackfunc.cpp(29): error C4700: 使用了未初始化的局部变量“ch”
-  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-LINK : fatal error LNK1257: 代码生成失败

@@ -1,4 +1,0 @@
-﻿  AllLogoCache.cpp
-g:\vs2017\alllogocache\alllogocache\alllogocache.cpp(8): warning C4326: “main”的返回类型应为“int”而非“void”
-g:\vs2017\alllogocache\alllogocache\alllogocache.cpp(20): warning C4129: “c”: 不可识别的字符转义序列
-  AllLogoCache.vcxproj -> G:\VS2017\AllLogoCache\Debug\AllLogoCache.exe

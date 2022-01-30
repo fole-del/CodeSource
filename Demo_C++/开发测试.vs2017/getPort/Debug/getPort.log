@@ -1,3 +1,0 @@
-﻿  getPort.cpp
-g:\code_source\demo_c++\开发测试.vs2017\getport\getport.cpp(54): warning C4244: “参数”: 从“DWORD”转换到“u_short”，可能丢失数据
-  getPort.vcxproj -> G:\Code_Source\Demo_C++\开发测试.vs2017\BuildProject\Debug\getPort.exe

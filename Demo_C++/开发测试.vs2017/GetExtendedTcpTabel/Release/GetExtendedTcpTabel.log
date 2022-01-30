@@ -1,9 +1,0 @@
-﻿  GetExtendedTcpTabel.cpp
-g:\code_source\demo_c++\开发测试.vs2017\getextendedtcptabel\getextendedtcptabel.cpp(35): warning C4244: “参数”: 从“DWORD”转换到“u_short”，可能丢失数据
-g:\code_source\demo_c++\开发测试.vs2017\getextendedtcptabel\getextendedtcptabel.cpp(37): warning C4244: “参数”: 从“DWORD”转换到“u_short”，可能丢失数据
-  正在生成代码
-  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  已完成代码的生成
-  GetExtendedTcpTabel.vcxproj -> G:\Code_Source\Demo_C++\开发测试.vs2017\Release\GetExtendedTcpTabel.exe
