@@ -89,11 +89,9 @@ Demo_C++/开发测试.vs2017/Debug/*.*
 Demo_C++/开发测试.vs2017/Debug/*
 Demo_C++/开发测试.vs2017/x64/*
 Demo_C++/开发测试.vs2017/x64/*.*
-Demo_C++/开发测试.vs2017/*/x64
 Demo_C++/开发测试.vs2017/Release/*.*
 Demo_C++/开发测试.vs2017/Release/*
 Demo_C++/开发测试.vs2017/*/x64
 Demo_C++/开发测试.vs2017/*/Release
-Demo_C++/开发测试.vs2017/**/Release/*.*
 Demo_C++/开发测试.vs2017/**/Release/*.*
 /Demo_C++/开发测试.vs2017/BuildProject/x64
