@@ -1,0 +1,3 @@
+[submodule "TypeScript/DragResize/vue-drag-resize"]
+	path = TypeScript/DragResize/vue-drag-resize
+	url = https://github.com/kirillmurashov/vue-drag-resize.git
